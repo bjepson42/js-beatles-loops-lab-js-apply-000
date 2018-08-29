@@ -39,8 +39,8 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n){
   n = n + 1
-  var beatlesLuv = []
   i = 0
+  var beatlesLuv = []
   do {
     beatlesLuv[i] = 'I love the Beatles!'
     i++
